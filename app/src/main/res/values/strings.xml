@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CPM Clicker</string>
+    <string name="hello_world_text">0</string>
+    <string name="left_button">🎵</string>
+    <string name="middle_button">Give Me More!</string>
+    <string name="right_button">Random</string>
+    <string name="your_ecpm_is">You Earned</string>
+    <string name="dollarsign">$</string>
+    <string name="interstitial_button">Take Me Somewhere Else</string>
+</resources>
