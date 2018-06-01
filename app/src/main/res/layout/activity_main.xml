@@ -7,7 +7,7 @@
     android:background="@color/screenBackground"
     tools:context=".MainActivity">
 
-    <com.example.manofpeace.myapplication.GifImageView
+    <com.manofstudios.manofpeace.myapplication.GifImageView
         android:id="@+id/GifImageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

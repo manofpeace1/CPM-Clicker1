@@ -1,4 +1,4 @@
-package com.example.manofpeace.myapplication;
+package com.manofstudios.manofpeace.myapplication;
 
 import org.junit.Test;
 

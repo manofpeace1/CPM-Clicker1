@@ -1,4 +1,4 @@
-package com.example.manofpeace.myapplication;
+package com.manofstudios.manofpeace.myapplication;
 
 import android.content.Context;
 import android.graphics.Canvas;

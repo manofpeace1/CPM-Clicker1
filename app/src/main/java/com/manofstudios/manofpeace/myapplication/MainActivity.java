@@ -1,4 +1,4 @@
-package com.example.manofpeace.myapplication;
+package com.manofstudios.manofpeace.myapplication;
 
 import android.media.AudioAttributes;
 import android.media.AudioManager;
